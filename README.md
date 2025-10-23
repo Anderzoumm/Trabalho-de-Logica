@@ -11,8 +11,8 @@ A disciplina de Lógica de Programação tem como objetivo introduzir os fundame
 ## 🔧 Tecnologias utilizadas
 
 - Linguagem: `Python` 
-- Editor: `VS Code`
-- Sistema Operacional: Windows
+- IDLE: `VS code`
+- Sistema Operacional: Debian Linux
 
 ---
 
